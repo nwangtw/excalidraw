@@ -61,9 +61,10 @@ export const CLASSES = {
 
 // 1-based in case we ever do `if(element.fontFamily)`
 export const FONT_FAMILY = {
-  1: "Virgil",
+  1: "Chalkboard",
   2: "Helvetica",
   3: "Cascadia",
+  4: "Virgil",
 } as const;
 
 export const CANVAS_ONLY_ACTIONS = ["selectAll"];
