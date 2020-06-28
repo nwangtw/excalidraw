@@ -49,7 +49,7 @@ const elements = [
     opacity: 100,
     seed: 1683771448,
     text: "test",
-    font: "20px Virgil",
+    font: "20px Chalkboard",
     baseline: 22,
   },
 ];
